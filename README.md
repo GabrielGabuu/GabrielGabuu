@@ -1,6 +1,6 @@
-# Gabriel Correia
+# Hi! I'm Gabriel Correia
 
-Front-end Developer focused on building clean, fast and scalable interfaces.  
+A passionate Front-end Developer who loves creating creative and efficient solutions!
 ---
 
 ## 👨‍💻 About Me
