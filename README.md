@@ -42,15 +42,9 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 🔥 portfolio  
 
-![GitHub Stats](https://github-stats-api-mocha.vercel.app/api/stats)
-
----
-
-## 🔥 Featured Projects  
-
-🔹 Soon... (constantly improving and updating my portfolio 🚀)  
+🔹 https://portfolionew-pi.vercel.app/pt
 
 ---
 
