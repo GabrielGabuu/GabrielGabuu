@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Gabriel%20Correia&fontSize=40&fontColor=ffffff)
-
 # 👋 Hi, I'm Gabriel Correia  
 
 🚀 Front-end Developer focused on building **scalable, high-performance web applications**  
