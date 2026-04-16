@@ -54,19 +54,4 @@
 https://www.linkedin.com/in/gabriel-correia-33b518287/  
 
 ---
-
-## 🎯 Current Focus  
-
-📌 Improving system design and front-end architecture  
-📌 Deepening knowledge in performance optimization  
-📌 Expanding skills towards full-stack and DevOps concepts  
-
----
-
-## ⚡ Fun Fact  
-
-I’m also passionate about creativity — from coding to drawing and content creation 🎨  
-
----
-
 ⭐ *Always building. Always improving.*
